@@ -1,2 +1,2 @@
 # PaginaInstagram
-Projeto de recriar página do Instagram
+Projeto recriando página do Instagram
